@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-ORG="zouzias"
+ORG="jbeirer"
 
 if [ $# -eq 0 ]
   then
